@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1499367938 source:c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\acharacter.cpp
+	<stdexcept>
+	"ACharacter.hh"
+
+1499367938 c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\acharacter.hh
+	"GameElement.hh"
+
+1499368156 c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\gameelement.hh
+	<string>
+	<iostream>
+	<map>
+	<list>
+	<iostream>
+
+1499367938 c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\changemanager.hh
+	<map>
+	<list>
+	<iostream>
+	"Subject.hh"
+
+1499367938 c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\subject.hh
+	"IObserver.hh"
+
+1499367938 c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\iobserver.hh
+	<iostream>
+
+1499367938 source:c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\bonus.cpp
+	"Bonus.hh"
+
+1499367938 c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\bonus.hh
+	"GameElement.hh"
+
+1499364296 source:c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\changemanager.cpp
+	"GameElement.hh"
+	"ChangeManager.hh"
+
+1499367938 source:c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\gameelement.cpp
+	"GameElement.hh"
+
+1499363244 source:c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"GameElement.hh"
+	"Bonus.hh"
+	"Map.hh"
+	"Player.hh"
+	"Monster.hh"
+	"Cycle.hh"
+
+1499367938 c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\map.hh
+	"Subject.hh"
+	"GameElement.hh"
+
+1499367938 c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\player.hh
+	"ACharacter.hh"
+
+1499367938 c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\monster.hh
+	"ACharacter.hh"
+
+1499368156 c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\cycle.hh
+	<vector>
+	<map>
+	<list>
+	<iostream>
+	"termios.h"
+	"GameElement.hh"
+	"ACharacter.hh"
+	"Map.hh"
+	"Player.hh"
+	"Monster.hh"
+	"Bonus.hh"
+
+1499256685 c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\termios.h
+
+1499367938 source:c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\map.cpp
+	<stdexcept>
+	"Map.hh"
+
+1499367938 source:c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\monster.cpp
+	<cstdlib>
+	<vector>
+	"Monster.hh"
+
+1499367938 source:c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\player.cpp
+	"Player.hh"
+
+1499367938 source:c:\users\katherine\desktop\pacman_observer-master\pacman_observer-master\cycle.cpp
+	<iostream>
+	<sstream>
+	<cstdio>
+	"unistd.h"
+	<cstdlib>
+	"ACharacter.hh"
+	"Cycle.hh"
+
